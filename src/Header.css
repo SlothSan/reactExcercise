@@ -1,0 +1,9 @@
+.headerBar {
+    background-color: mediumpurple;
+    color: white;
+    padding: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
